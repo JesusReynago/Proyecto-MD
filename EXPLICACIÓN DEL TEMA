@@ -1,0 +1,52 @@
+La conversión de hexadecimal a binario implica convertir cada dígito hexadecimal en su equivalente binario de 4 bits. Por otro lado, la conversión de binario a hexadecimal implica agrupar los dígitos binarios de 4 bits y convertirlos en su equivalente hexadecimal. A continuación, te mostraré ejemplos de ambos tipos de conversión:
+
+**Conversión de hexadecimal a binario:**
+
+Ejemplo 1: Convertir el número hexadecimal 2EF a binario.
+
+1. Convertimos cada dígito hexadecimal en su equivalente binario de 4 bits:
+   - 2 -> 0010
+   - E -> 1110
+   - F -> 1111
+
+2. Unimos los resultados para obtener el número binario equivalente:
+   2EF en hexadecimal es igual a 0010 1110 1111 en binario.
+
+Ejemplo 2: Convertir el número hexadecimal 5E a binario.
+
+1. Convertimos cada dígito hexadecimal en su equivalente binario de 4 bits:
+   - 5 -> 0101
+   - E -> 1110
+
+2. Unimos los resultados para obtener el número binario equivalente:
+   5E en hexadecimal es igual a 0101 1110 en binario.
+
+**Conversión de binario a hexadecimal:**
+
+Ejemplo 1: Convertir el número binario 1011 a hexadecimal.
+
+1. Agrupamos los dígitos binarios de 4 bits:
+   1011 se convierte en 0001 0110.
+
+2. Convertimos cada grupo de 4 bits en su equivalente hexadecimal:
+   - 0001 -> 1
+   - 0110 -> 6
+
+3. Unimos los resultados para obtener el número hexadecimal equivalente:
+   1011 en binario es igual a 16 en hexadecimal.
+
+Ejemplo 2: Convertir el número binario 1011111111111 a hexadecimal.
+
+1. Agrupamos los dígitos binarios de 4 bits:
+   1011111111111 se convierte en 0001 0111 1111 1111.
+
+2. Convertimos cada grupo de 4 bits en su equivalente hexadecimal:
+   - 0001 -> 1
+   - 0111 -> 7
+   - 1111 -> F
+   - 1111 -> F
+
+3. Unimos los resultados para obtener el número hexadecimal equivalente:
+   1011111111111 en binario es igual a 17FF en hexadecimal.
+
+Recuerda que en la conversión de binario a hexadecimal, los grupos de 4 bits se convierten en dígitos hexadecimales del 0 al F, donde A representa el valor decimal 10, B representa el valor decimal 11, y así sucesivamente hasta F que representa el valor decimal 15.
