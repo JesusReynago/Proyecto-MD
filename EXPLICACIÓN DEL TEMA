@@ -1,6 +1,6 @@
 La conversión de hexadecimal a binario implica convertir cada dígito hexadecimal en su equivalente binario de 4 bits. Por otro lado, la conversión de binario a hexadecimal implica agrupar los dígitos binarios de 4 bits y convertirlos en su equivalente hexadecimal. A continuación, te mostraré ejemplos de ambos tipos de conversión:
 
-**Conversión de hexadecimal a binario:**
+--Conversión de hexadecimal a binario:--
 
 Ejemplo 1: Convertir el número hexadecimal 2EF a binario.
 
@@ -21,7 +21,7 @@ Ejemplo 2: Convertir el número hexadecimal 5E a binario.
 2. Unimos los resultados para obtener el número binario equivalente:
    5E en hexadecimal es igual a 0101 1110 en binario.
 
-**Conversión de binario a hexadecimal:**
+--Conversión de binario a hexadecimal:--
 
 Ejemplo 1: Convertir el número binario 1011 a hexadecimal.
 
