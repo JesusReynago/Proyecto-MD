@@ -2,11 +2,11 @@
 
 ## Programa Conversión de Hexadecimal a Binario y de Binario a Hexadecimal
 ------------
-#### Problema
+### Problema
 
 Calcular números hexadecimales con apoyo de números binarios y viceversa, ya sea con números de valores pequeños o grandes.
 
-#### Solución
+### Solución
 
 El presente programa, realizado en el lenguaje C++, busca agilizar las conversiones de hexadecimales a binarios y viceversa como una especie de calculadora, pero no una cualquiera, sino una que se rija por un menú en donde el usuario tendrá a su disposición 3 opciones para hacer sus procesos de conversión varias veces hasta que elija la opción 3 para finalizar.
 Además, se hará un despliegue de todo el proceso explicado del tipo de conversión.
