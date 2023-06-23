@@ -17,3 +17,5 @@ Ya sea importando el código en formato .cpp en el ejecutador o copiarlo y pegar
 Algunos ejemplos de entradas y salidas dependen de la opción elegida.
 - Para la opción 1 "Conversión de hexadecimal a binario" tenemos como ejemplo a 2EF que es igual a 1011101111, también a 5E que es igual a 1011110.
 - Para la opción 2 "Conversión de binario a hexadecimal" tenemos como ejemplo a 1011 que es igual a B, también a 1011111111111 que es igual a 17FF.
+------------
+### Instrucciones
