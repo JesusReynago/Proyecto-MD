@@ -22,4 +22,5 @@ Algunos ejemplos de entradas y salidas dependen de la opción elegida.
 
 Para copilar y ejecutar el programa, se tienen que seguir los siguientes pasos:
 - Asegurarse de tener un compilador de C++ instalado en su sistema o de tener una página copiladora confiable.
-- Descargar el archivo AlgoritmodeEuclides_MCD_mcm.c desde este repositorio.
+- Descargar el archivo Conversión_Binario_a_Hexadecimal_y_viceversa.cpp desde este repositorio.
+- Buscar la ubicación donde se descargo el archivo Conversión_Binario_a_Hexadecimal_y_viceversa.cpp
