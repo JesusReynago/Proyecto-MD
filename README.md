@@ -13,10 +13,6 @@ Además, se hará un despliegue de todo el proceso explicado del tipo de convers
 
 El programa puede ser ejecutado en Debugger online: https://www.onlinegdb.com/
 Ya sea importando el código en formato .cpp en el ejecutador o copiarlo y pegarlo en el mismo.
-
-Algunos ejemplos de entradas y salidas dependen de la opción elegida.
-- Para la opción 1 "Conversión de hexadecimal a binario" tenemos como ejemplo a 2EF que es igual a 1011101111, también a 5E que es igual a 1011110.
-- Para la opción 2 "Conversión de binario a hexadecimal" tenemos como ejemplo a 1011 que es igual a B, también a 1011111111111 que es igual a 17FF.
 ------------
 ### Instrucciones
 
@@ -26,3 +22,9 @@ Para copilar y ejecutar el programa, se tienen que seguir los siguientes pasos:
 - Buscar la ubicación donde se descargo el archivo Conversión_Binario_a_Hexadecimal_y_viceversa.cpp en nuestro dispositivo.
 - Compilar el programa abriendolo desde el programa copilador o página, en caso de no correr solo copiar y pegar el código fuente.
 - Correr el programa y seguir las instrucciones del programa para obtener el número binario o hexadecimal según el caso.
+------------
+### Ejemplo con valores de entrada y salidas.
+
+Algunos ejemplos de entradas y salidas dependen de la opción elegida.
+- Para la opción 1 "Conversión de hexadecimal a binario" tenemos como ejemplo a 2EF que es igual a 1011101111, también a 5E que es igual a 1011110.
+- Para la opción 2 "Conversión de binario a hexadecimal" tenemos como ejemplo a 1011 que es igual a B, también a 1011111111111 que es igual a 17FF.
