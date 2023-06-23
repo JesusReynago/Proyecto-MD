@@ -23,4 +23,6 @@ Algunos ejemplos de entradas y salidas dependen de la opción elegida.
 Para copilar y ejecutar el programa, se tienen que seguir los siguientes pasos:
 - Asegurarse de tener un compilador de C++ instalado en su sistema o de tener una página copiladora confiable.
 - Descargar el archivo Conversión_Binario_a_Hexadecimal_y_viceversa.cpp desde este repositorio.
-- Buscar la ubicación donde se descargo el archivo Conversión_Binario_a_Hexadecimal_y_viceversa.cpp
+- Buscar la ubicación donde se descargo el archivo Conversión_Binario_a_Hexadecimal_y_viceversa.cpp en nuestro dispositivo.
+- Compilar el programa abriendolo desde el programa copilador o página, en caso de no correr solo copiar y pegar el código fuente.
+- Correr el programa y seguir las instrucciones del programa para obtener el número binario o hexadecimal según el caso.
