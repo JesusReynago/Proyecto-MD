@@ -19,3 +19,6 @@ Algunos ejemplos de entradas y salidas dependen de la opción elegida.
 - Para la opción 2 "Conversión de binario a hexadecimal" tenemos como ejemplo a 1011 que es igual a B, también a 1011111111111 que es igual a 17FF.
 ------------
 ### Instrucciones
+
+Para copilar y ejecutar el programa, se tienen que seguir los siguientes pasos:
+- Asegurarse de tener un compilador de C++ instalado en su sistema o de tener una página copiladora confiable.
