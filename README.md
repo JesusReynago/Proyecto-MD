@@ -1,6 +1,6 @@
 ## PROYECTO DE MATEMÁTICAS DISCRETAS
 
-### Programa Conversión de Binario a Hexadecimal y de Hexadecimal a Binario
+### Programa Conversión de Hexadecimal a Binario y de Binario a Hexadecimal
 ------------
 #### Problema
 
